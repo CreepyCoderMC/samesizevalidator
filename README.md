@@ -43,6 +43,7 @@ import { valueIsSameSize } from '@teamcoder/samesizevalidator';
 | Version  | Date                   | Remark                                                                                                |
 |----------|------------------------|-------------------------------------------------------------------------------------------------------|
 | 1.0.0    | 11 September 2022      | Official first release                                                                                |
+| 1.0.1    | 11 September 2022      | Correcting documentation                                                                              |
 ## How To Install
 Run the following command in a terminal or command prompt in the folder you want to install the module to.
 > npm i @teamcoder/samesizevalidator

@@ -221,13 +221,14 @@
  *          and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or
  *          authority.
  *  
- *      LongerValidator © 2022 by Adriaan J. van Rensburg (CreepyCoderMC) is licensed under CC BY-NC-ND 4.0
+ *      SameSizeValidator © 2022 by Adriaan J. van Rensburg (CreepyCoderMC) is licensed under CC BY-NC-ND 4.0
  *      To view a online copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
  */
 
  /*     VERSION HISTORY
   *
   *     1.0.0       11 September 2022           Official first release
+  *     1.0.1       11 September 2022           Correcting documentation
  */
 
  /* Validates if a target value is same lenght than the source
